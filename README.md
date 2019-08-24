@@ -86,16 +86,16 @@ there are many features that must be dropped as an employer cannot affect
 them. For this model, we performed the first round of dimensionality reduction
 by hand. They were the following:
 
-• Age
-• Distance from Home
-• Education / Education Field
-• Marital Status
-• Number of Companies Worked
-• Over 18
-• Performance Rating
-• Relationship Satisfaction
-• Total Working Years
-• Years at Company
+- Age
+- Distance from Home
+- Education / Education Field
+- Marital Status
+- Number of Companies Worked
+- Over 18
+- Performance Rating
+- Relationship Satisfaction
+- Total Working Years
+- Years at Company
 
 All dummy variables for the fields were removed as well, reducing
 dimensionality by 20.
@@ -167,8 +167,8 @@ tree, we find that the same predictors have the most weight in our logistic
 regression model.
 
 Things we can see from the data, in both models:
--Individuals who work overtime are more likely to leave a company.
--The higher the stock option, the less likely the individual is to leave.
+- Individuals who work overtime are more likely to leave a company.
+- The higher the stock option, the less likely the individual is to leave.
 - The less job involvement, the more likely the employee is to leave.
 - Those who travel frequently are also more likely to leave a company.
 
